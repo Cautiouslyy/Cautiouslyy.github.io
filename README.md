@@ -1,3 +1,3 @@
-# Cautiously CODM BLOG
+# **Cautiously**
 ## WE PLAY IT CAUTIOUS
-This site was built using [GitHub Pages](https://github.com/Cautiouslyy?tab=repositories).
+FB PAGE [@CautiouslyCODM](https://github.com/Cautiouslyy?tab=repositories).
