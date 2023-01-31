@@ -1,6 +1,8 @@
-<body bgcolor=”#800000">
+# **CAUTIOUSLY**                                                [Call of Duty Mobile]
 
-# **CAUTIOUSLY**                       ![Call of Duty Mobile]([https://myoctocat.com/assets/images/base-octocat.svg](https://codm.garena.com/static/images/Main-page/P1/codm-logo.png))
+
+
+
 
 **HOME PAGE**
 
