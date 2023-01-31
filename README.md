@@ -1,4 +1,4 @@
-# **CAUTIOUSLY**                                                [Call of Duty Mobile]
+# **CAUTIOUSLY**                                                **Call of Duty MobilE**
 
 
 
