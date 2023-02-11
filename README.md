@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>Cautiously</title>
@@ -147,7 +146,7 @@
 
 <!-- Footer -->
 <footer class="w3-container w3-black w3-padding-16">
-  <p>Powered by <a href="https://cautiouslyy.github.io/" target="_blank">Link</a></p>
+  <p>Cautious <a href="https://cautiouslyy.github.io/" target="_blank">Link</a></p>
 </footer>
 
 </body>
