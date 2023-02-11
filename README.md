@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>W3.CSS Template</title>
+<title>Cautiously</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -12,7 +12,7 @@
 <div class="w3-row">
   <div class="w3-half w3-black w3-container w3-center" style="height:700px">
     <div class="w3-padding-64">
-      <h1>My Logo</h1>
+      <h1>My Profile</h1>
     </div>
     <div class="w3-padding-64">
       <a href="#" class="w3-button w3-black w3-block w3-hover-blue-grey w3-padding-16">Home</a>
@@ -24,10 +24,10 @@
   <div class="w3-half w3-blue-grey w3-container" style="height:700px">
     <div class="w3-padding-64 w3-center">
       <h1>About Me</h1>
-      <img src="/w3images/avatar3.png" class="w3-margin w3-circle" alt="Person" style="width:50%">
+      <img src="prof.jpg" class="w3-margin w3-circle" alt="Person" style="width:50%">
       <div class="w3-left-align w3-padding-large">
-        <p>Lorem ipusm sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
-        <p>Lorem ipusm sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+        <p>Im Jeanroy Napoleon F Hualde im a student in JMC (Jose Maria College im 3rd year It</p>
+        <p>im also a guitarist and Loves music im also a gamer</p>
       </div>
     </div>
   </div>
@@ -37,29 +37,29 @@
 <div class="w3-row">
   <div class="w3-half w3-light-grey w3-center" style="min-height:800px" id="work">
     <div class="w3-padding-64">
-      <h2>My Work</h2>
-      <p>Some of my latest projects.</p>
+      <h2>Portfolio</h2>
+      <p>Some of my Achievements</p>
     </div>
     <div class="w3-row">
       <div class="w3-half">
-        <img src="/w3images/coffee.jpg" style="width:100%">
+        <img src="certione.jpg" style="width:50%">
       </div>
       <div class="w3-half">
-        <img src="/w3images/workbench.jpg" style="width:100%">
+        <img src="certitwo.jpg" style="width:50%">
       </div>
     </div>
     <div class="w3-row w3-hide-small">
       <div class="w3-half">
-        <img src="/w3images/workbench.jpg" style="width:100%">
+        <img src="certithree.jpg" style="width:50%">
       </div>
       <div class="w3-half">
-        <img src="/w3images/coffee.jpg" style="width:100%">
+        <img src="certifour.jpg" style="width:50%">
       </div>
     </div>
 
     <div class="w3-row w3-hide-small">
       <div class="w3-half">
-        <img src="/w3images/sound.jpg" style="width:100%">
+        <img src="certifive.jpg" style="width:50%">
       </div>
       <div class="w3-half">
         <img src="/w3images/workbench.jpg" style="width:100%">
@@ -79,34 +79,29 @@
             <th>Where</th>
           </tr>
           <tr class="w3-white">
-            <td>2012-2016</td>
-            <td>The rest is history..</td>
-            <td>Lorem ipsum</td>
+            <td>2020-2021</td>
+            <td>Shoes Seller</td>
+            <td>Davao</td>
           </tr>
           <tr>
-            <td>2009-2012</td>
+            <td>2019-2020</td>
             <td>Started my own company</td>
-            <td>My Garage</td>
+            <td>Davao</td>
           </tr>
           <tr class="w3-white">
-            <td>2008-2009</td>
-            <td>Started working for Lorem</td>
-            <td>London, UK</td>
+            <td>20020-2021</td>
+            <td>Started working on My online business</td>
+            <td>Davao, Phillipines</td>
           </tr>
           <tr>
             <td>2005-2008</td>
-            <td>Degree in Bachelor of Design</td>
-            <td>Harvard, USA</td>
+            <td>Bachelor in Science Information Technology</td>
+            <td>JMC, Davao</td>
           </tr>
           <tr class="w3-white">
             <td>2002-2005</td>
             <td>Degree in Bachelor of Business</td>
-            <td>RMIT University, Melbourne, Australia</td>
-          </tr>
-          <tr class="w3-hide-medium">
-            <td>2002-2005</td>
-            <td>Degree in Bachelor of Business</td>
-            <td>RMIT University, Melbourne, Australia</td>
+            <td>Jmc, Davao</td>
           </tr>
         </table>
       </div>
@@ -121,10 +116,10 @@
       <h1>Swing By</h1>
     </div>
     <div class="w3-padding-64">
-      <p>..for a cup of coffee, or whatever.</p>
-      <p>Chicago, US</p>
-      <p>+00 1515151515</p>
-      <p>test@test.com</p>
+      <p>..for more Contents</p>
+      <p>Davao Phillipines</p>
+      <p>+0984910377</p>
+      <p>@Cautiouslygames@gmail.com</p>
     </div>
   </div>
   <div class="w3-half w3-teal w3-container" style="height:700px">
@@ -152,9 +147,8 @@
 
 <!-- Footer -->
 <footer class="w3-container w3-black w3-padding-16">
-  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+  <p>Powered by <a href="https://cautiouslyy.github.io/" target="_blank">w3.css</a></p>
 </footer>
 
 </body>
 </html>
-
