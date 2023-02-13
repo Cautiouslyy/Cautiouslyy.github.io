@@ -101,9 +101,6 @@
           </tr>
         </table>
       </div>
-    </div>
-  </div>
-</div>
 
       <p class="w3-opacity">Contact </p>
       <form class="w3-container w3-card w3-padding-32 w3-white" action="/action_page.php" target="_blank">
