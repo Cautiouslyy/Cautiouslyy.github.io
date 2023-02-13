@@ -112,7 +112,6 @@
       <p>@Cautiouslygames@gmail.com</p>
     </div>
 
-
 <footer class="w3-container w3-black w3-padding-16">
   <p>Cautious <a href="https://cautiouslyy.github.io/" target="_blank">Link</a></p>
 </footer>
