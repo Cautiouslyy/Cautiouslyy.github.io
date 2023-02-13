@@ -8,7 +8,7 @@
 <body class="w3-content" style="max-width:1300px">
 
 <div class="w3-row">
-  <div class="w3-half w3-black w3-container w3-center" style="height:700px">
+  <div class="w3-half w3-black w3-container w3-center" style="height:800px">
     <div class="w3-padding-64">
       <h1>My Profile</h1>
     </div>
@@ -19,7 +19,7 @@
       <a href="#contact" class="w3-button w3-black w3-block w3-hover-brown w3-padding-16">Contact</a>
     </div>
   </div>
-  <div class="w3-half w3-blue-grey w3-container" style="height:700px">
+  <div class="w3-half w3-blue-grey w3-container" style="height:800px">
     <div class="w3-padding-64 w3-center">
       <h1>About Me</h1>
       <img src="prof.jpg" class="w3-margin w3-circle" alt="Person" style="width:50%">
@@ -32,7 +32,7 @@
 </div>
 
 <div class="w3-row">
-  <div class="w3-half w3-light-grey w3-center" style="min-height:800px" id="work">
+  <div class="w3-half w3-light-grey w3-center" style="min-height:1000px" id="work">
     <div class="w3-padding-64">
       <h2>Portfolio</h2>
       <p>Some of my Achievements</p>
@@ -56,13 +56,12 @@
 
     <div class="w3-row w3-hide-small">
       <div class="w3-half">
-        <img src="certifive.jpg" style="width:50%">
+        <img src="" style="width:0%">
       </div>
       <div class="w3-half">
-        <img src="/w3images/workbench.jpg" style="width:100%">
+        <img src="" style="width:0%">
       </div>
     </div><br>
-    <p>Just call me awesome.</p>
   </div>
   <div class="w3-half w3-indigo w3-container" style="min-height:800px">
     <div class="w3-padding-64 w3-center">
@@ -106,10 +105,8 @@
   </div>
 </div>
 
-<div class="w3-row" id="contact">
-  <div class="w3-half w3-dark-grey w3-container w3-center" style="height:700px">
-    <div class="w3-padding-64">
-      <h1>Swing By</h1>
+      <p class="w3-opacity">Contact </p>
+      <form class="w3-container w3-card w3-padding-32 w3-white" action="/action_page.php" target="_blank">
     </div>
     <div class="w3-padding-64">
       <p>..for more Contents</p>
@@ -118,26 +115,6 @@
       <p>@Cautiouslygames@gmail.com</p>
     </div>
   </div>
-  <div class="w3-half w3-teal w3-container" style="height:700px">
-    <div class="w3-padding-64 w3-padding-large">
-      <h1>Contact</h1>
-      <p class="w3-opacity">GET IN TOUCH</p>
-      <form class="w3-container w3-card w3-padding-32 w3-white" action="/action_page.php" target="_blank">
-        <div class="w3-section">
-          <label>Name</label>
-          <input class="w3-input" style="width:100%;" type="text" required name="Name">
-        </div>
-        <div class="w3-section">
-          <label>Email</label>
-          <input class="w3-input" style="width:100%;" type="text" required name="Email">
-        </div>
-        <div class="w3-section">
-          <label>Message</label>
-          <input class="w3-input" style="width:100%;" type="text" required name="Message">
-        </div>
-        <button type="submit" class="w3-button w3-teal w3-right">Send</button>
-      </form>
-    </div>
   </div>
 </div>
 
