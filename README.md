@@ -8,7 +8,7 @@
 <body class="w3-content" style="max-width:1300px">
 
 <div class="w3-row">
-  <div class="w3-half w3-black w3-container w3-center" style="height:500px">
+  <div class="w3-half w3-black w3-container w3-center" style="height:800px">
     <div class="w3-padding-64">
       <h1>My Profile</h1>
     </div>
@@ -19,7 +19,7 @@
       <a href="#contact" class="w3-button w3-black w3-block w3-hover-brown w3-padding-16">Contact</a>
     </div>
   </div>
-  <div class="w3-half w3-blue-grey w3-container" style="height:500px">
+  <div class="w3-half w3-blue-grey w3-container" style="height:800px">
     <div class="w3-padding-64 w3-center">
       <h1>About Me</h1>
       <img src="prof.jpg" class="w3-margin w3-circle" alt="Person" style="width:50%">
@@ -32,7 +32,7 @@
 </div>
 
 <div class="w3-row">
-  <div class="w3-half w3-light-grey w3-center" style="min-height:800px" id="work">
+  <div class="w3-half w3-light-grey w3-center" style="min-height:1000px" id="work">
     <div class="w3-padding-64">
       <h2>Portfolio</h2>
       <p>Some of my Achievements</p>
@@ -101,6 +101,9 @@
           </tr>
         </table>
       </div>
+    </div>
+  </div>
+</div>
 
       <p class="w3-opacity">Contact </p>
       <form class="w3-container w3-card w3-padding-32 w3-white" action="/action_page.php" target="_blank">
@@ -111,3 +114,6 @@
       <p>+0984910377</p>
       <p>@Cautiouslygames@gmail.com</p>
     </div>
+  </div>
+  </div>
+</div>
