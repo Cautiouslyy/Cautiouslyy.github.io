@@ -7,7 +7,6 @@
 </head>
 <body class="w3-content" style="max-width:1300px">
 
-<!-- First Grid: Logo & About -->
 <div class="w3-row">
   <div class="w3-half w3-black w3-container w3-center" style="height:700px">
     <div class="w3-padding-64">
@@ -32,7 +31,6 @@
   </div>
 </div>
 
-<!-- Second Grid: Work & Resume -->
 <div class="w3-row">
   <div class="w3-half w3-light-grey w3-center" style="min-height:800px" id="work">
     <div class="w3-padding-64">
@@ -108,7 +106,6 @@
   </div>
 </div>
 
-<!-- Third Grid: Swing By & Contact -->
 <div class="w3-row" id="contact">
   <div class="w3-half w3-dark-grey w3-container w3-center" style="height:700px">
     <div class="w3-padding-64">
@@ -144,7 +141,6 @@
   </div>
 </div>
 
-<!-- Footer -->
 <footer class="w3-container w3-black w3-padding-16">
   <p>Cautious <a href="https://cautiouslyy.github.io/" target="_blank">Link</a></p>
 </footer>
